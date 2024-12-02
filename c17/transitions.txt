@@ -1,0 +1,46 @@
+$var wire 1 ! Z $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % D $end
+$var reg 1 & E $end
+$var wire 1 " N1 $end
+$var wire 1 ' N10 $end
+$var wire 1 ( N11 $end
+$var wire 1 ) N16 $end
+$var wire 1 * N19 $end
+$var wire 1 # N2 $end
+$var wire 1 + N22 $end
+$var wire 1 ! N23 $end
+$var wire 1 $ N3 $end
+$var wire 1 % N6 $end
+$var wire 1 & N7 $end
+0+
+1*
+1)
+1(
+1'
+0&
+0%
+0$
+0#
+0"
+0!
+1%
+1"
+1+
+1!
+0*
+0)
+1&
+1#
+0%
+1$
+0"
+0!
+1)
+1*
+0(
+0'
+1%
+1"
