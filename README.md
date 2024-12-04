@@ -1,5 +1,4 @@
-Summary: Dynamic Power Estimation Experiment using Spectral Analysis with NumPy, PyFFT and cuFFT
-Key Insights:
+Summary: Dynamic Power Estimation Experiment using Spectral Analysis with NumPy, PyFFT and cuFFT:
 
 Leveraged VCD files and FFT-based spectral analysis for understanding signal behavior and its impact on power dissipation.
 Used open-source tools (Icarus Verilog, Perl, Python) for accessible and flexible workflows.
